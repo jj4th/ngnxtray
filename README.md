@@ -4,18 +4,19 @@ ngnxtray
 A system tray application providing simple actions related to nginx
 installations on Windows.  Requires .Net 3.5.
   
-Installation:
-    Place in the directory where you installed nginx, and double click to
-    execute.  Click the system tray icon to start, stop, or restart nginx.
-    Editing the conf/nginx.conf file is also supported.  Notepad.exe is
-    used as the conf file editor.
+#### Installation ####
+Place in the directory where you installed nginx, and double click to
+execute.  Click the system tray icon to start, stop, or restart nginx.
+Editing the conf/nginx.conf file is also supported.  Notepad.exe is
+used as the conf file editor.
  
-Version:
-    1.0.0.0
+#### Version ####
+1.0.0.0
       
-Revision Log:
-    2014-08-10: 1.0.0.0 - Initial Release
+#### Revision Log ####
+2014-08-10: 1.0.0.0 - Initial Release
  
+#### License ####
 The MIT License (MIT)
   
 Copyright (c) 2014 John J. Andrichak IV
