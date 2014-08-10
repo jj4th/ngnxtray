@@ -2,7 +2,11 @@ ngnxtray
 ========
 
 A system tray application providing simple actions related to nginx
-installations on Windows.  Requires .Net 3.5.
+installations on Windows.
+
+#### Requirements ####
+nginx/Windows (http://nginx.org/en/download.html)  
+Microsoft .Net 3.5 (http://www.microsoft.com/en-us/download/details.aspx?id=21)
   
 #### Installation ####
 Place in the directory where you installed nginx, and double click to
