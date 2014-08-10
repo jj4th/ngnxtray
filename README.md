@@ -4,6 +4,13 @@ ngnxtray
 A system tray application providing simple actions related to nginx
 installations on Windows.
 
+#### CAVEAT ####
+Someone has already done this, using a slightly less minimalist approach.
+If you need more admin capabilities that my tray icon provides, I recommend
+that you instead use the one at:  
+http://nginxtray.codeplex.com/
+
+
 #### Requirements ####
 nginx/Windows (http://nginx.org/en/download.html)  
 Microsoft .Net 3.5 (http://www.microsoft.com/en-us/download/details.aspx?id=21)
